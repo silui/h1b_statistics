@@ -1,0 +1,7 @@
+TOP_OCCUPATIONS;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
+cook;2;25.0%
+programmer;2;25.0%
+chief;1;12.5%
+house keeper;1;12.5%
+janatar;1;12.5%
+teacher;1;12.5%
