@@ -6,6 +6,7 @@ assert len(sys.argv)==5, 'usage: progname target_header TOPCOUNT INPUTFILEPATH O
 
 # DICT translate arg to column header and output header
 # If column header is not included in dict, please add the exact header to the corresponding arg
+#DICT = {argv:[LIST OF INPUT HEADER NAME],OUTPUT_HEADER_NAME}
 DICT = {
     'states': (['WORKSITE_STATE','LCA_CASE_WORKLOC1_STATE'],'TOP_STATES'),
     'occupations': (['LCA_CASE_SOC_NAME','SOC_NAME'],'TOP_OCCUPATIONS'),
